@@ -6,16 +6,6 @@ from problem import *
 
 def main():
 
-    # guest = ['Dio', 'Gesu', 'Madonna', 'Giuseppe', 'Spirito Santo', 'Ponzio Pilato',
-    #         'Pietro', 'Matteo', 'Marco', 'Giovanni', 'Luca', 'Melchiorre', 'Baldassare', 'Gasparre', 'Maddalena',
-    #          'Giuda']
-    #
-    # family1 = ['Gesu', 'Madonna', 'Spirito Santo', 'Dio']
-    # family2 = ['Melchiorre', 'Baldassare', 'Gasparre']
-    #
-    # fight = [('Gesu', 'Giuda'), ('Madonna', 'Giuseppe'), ('Spirito Santo', 'Giuseppe'), ('Gesu', 'Ponzio Pilato'),
-    #          ('Pietro', 'Gesu')]
-
     guest = ['Antonella', 'Domenico', 'Raffella', 'Tommaso', 'Vincenzo', 'Azzurra',
              'Cristiano', 'Francesca', 'Luigi', 'Giovanni', 'Marcella', 'Daniela', 'Leonardo', 'Nunzio', 'Silvia']
 
